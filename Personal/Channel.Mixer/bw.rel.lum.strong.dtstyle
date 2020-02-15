@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|B&amp;W|Rel. Lum. Strong</name>
-    <description>Base: Relative Luminance - Grey &amp; Lightness channel</description>
+    <name>Personal|Channel Mixer|Rel. Lum. B&amp;W, Strong</name>
+    <description>Relative Luminance - Grey &amp; Lightness channel</description>
   </info>
   <style>
     <plugin>

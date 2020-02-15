@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Channel Mixer|Rel. Lum. Colour, Soft</name>
+    <description>Relative Luminance - Grey channel only</description>
+  </info>
+  <style>
+    <plugin>
+      <num>9</num>
+      <module>1</module>
+      <operation>channelmixer</operation>
+      <op_params>0000000000000000b01c5a3e0000803f00000000000000000000000000000000000000003c0a373f000000000000803f00000000000000000000000000000000c074933d00000000000000000000803f00000000</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjZGBgkGEAgRNODGiAEV0AJ2iwh+CRyscOAA4aGQk=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>38.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

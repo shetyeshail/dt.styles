@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Contrast Equalizer|Sharpen [assisted]</name>
+    <description>Sharpen with initial blend mode support</description>
+  </info>
+  <style>
+    <plugin>
+      <num>13</num>
+      <module>1</module>
+      <operation>atrous</operation>
+      <op_params>gz04eJxjZoCAs2d87M6eOWM3a6akPZBtz8DQYE9rcbPZTPbq0zntK/7z2R/6IGT/MFPS/o21HEg9qZgkAAANbjoB</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjZGBgEGcAgRNODGiAEV0AJ2iwh+CRyscOAAdiGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>32.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

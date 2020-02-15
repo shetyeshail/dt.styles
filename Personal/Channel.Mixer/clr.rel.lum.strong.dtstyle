@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Personal|Colour|Rel. Lum. Soft</name>
-    <description>Base: Relative Luminance - Grey channel</description>
+    <name>Personal|Channel Mixer|Rel. Lum. Colour, Strong</name>
+    <description>Relative Luminance - Grey &amp; Lightness channel</description>
   </info>
   <style>
     <plugin>
-      <num>9</num>
+      <num>13</num>
       <module>1</module>
       <operation>channelmixer</operation>
-      <op_params>0000000000000000b01c5a3e0000803f00000000000000000000000000000000000000003c0a373f000000000000803f00000000000000000000000000000000c074933d00000000000000000000803f00000000</op_params>
+      <op_params>0000000000000000b01c5a3e0000803f0000000000000000b01c5a3e00000000000000003c0a373f000000000000803f000000003c0a373f0000000000000000c074933d00000000000000000000803fc074933d</op_params>
       <enabled>1</enabled>
       <blendop_params>gz11eJxjZGBgkGEAgRNODGiAEV0AJ2iwh+CRyscOAA4aGQk=</blendop_params>
       <blendop_version>9</blendop_version>

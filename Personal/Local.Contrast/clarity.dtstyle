@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Local Contrast|Clarity</name>
+    <description>Clarity base setting</description>
+  </info>
+  <style>
+    <plugin>
+      <num>9</num>
+      <module>3</module>
+      <operation>bilat</operation>
+      <op_params>010000006666663f0000803f0000003fcdcc4c3e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz08eJxjZWBgkGAAgRNODFDAiEbjA2fOnLFNS0uzZ2BosEeINowwPnYAALmeHF0=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>53.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

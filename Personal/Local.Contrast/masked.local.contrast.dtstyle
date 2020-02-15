@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Local Contrast|Local contrast</name>
+    <description>local contrast with pmask</description>
+  </info>
+  <style>
+    <plugin>
+      <num>9</num>
+      <module>3</module>
+      <operation>bilat</operation>
+      <op_params>0000000000007042ffff6f419a99193f0000003f</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz09eJxjZWBgkGAAgRNODFDAiEbjA+vcE+0ZGBqgGAZGGh87AADPBxqf</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>53.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>
