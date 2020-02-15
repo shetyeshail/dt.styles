@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Color Balance|Warmer Slightly</name>
+    <description>A tad warmer</description>
+  </info>
+  <style>
+    <plugin>
+      <num>8</num>
+      <module>3</module>
+      <operation>colorbalance</operation>
+      <op_params>010000000000803f2a5c7f3f4e1b803feb51803f0000803f5c8f823f0000803f48e17a3f0000803f5c8f823f3a6d803f48e17a3f0000803f0000803f000090410000803f</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>

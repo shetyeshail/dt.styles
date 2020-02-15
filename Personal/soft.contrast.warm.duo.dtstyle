@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Soft Cotrast (Warm) DUO</name>
+    <description>Bloom + Color Balance</description>
+  </info>
+  <style>
+    <plugin>
+      <num>21</num>
+      <module>1</module>
+      <operation>bloom</operation>
+      <op_params>0000aa420000a0400000aa42</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjZGBgYGEAgWlODGiAEV0AJ2iwh+CRyscOAKvHGL8=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+    <plugin>
+      <num>22</num>
+      <module>3</module>
+      <operation>colorbalance</operation>
+      <op_params>010000000000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f0000803f9a99593ff6287c3f000090419a99593f</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz06eJxjZWBgkGAAgRNODDDABOEzQrlvAi32mRhv3seAEzTYQ/DA8otkjtta9j227X9sYVck425HP/uxAwDu5SMW</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>

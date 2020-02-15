@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Haze Removal|Softer Look</name>
+    <description>Soften Image</description>
+  </info>
+  <style>
+    <plugin>
+      <num>8</num>
+      <module>1</module>
+      <operation>hazeremoval</operation>
+      <op_params>666666bf6666663e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjZGBgkABiRoYCRwY0wIgugBM02EPwSOVjBwCUfhit</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+    </plugin>
+  </style>
+</darktable_style>
