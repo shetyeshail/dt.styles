@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Filmic RGB||Neutral 18.45 base</name>
+    <description>Boris Hajdukovic</description>
+  </info>
+  <style>
+    <plugin>
+      <num>13</num>
+      <module>1</module>
+      <operation>filmicrgb</operation>
+      <op_params>9a999341ffff6fc100004040000000009a999341000000000000c842905114410000c8420000803f000000000000000003000000</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>45.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>
