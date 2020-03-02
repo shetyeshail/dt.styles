@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <darktable_style version="1.0">
   <info>
-    <name>Filmic.Neutral.01</name>
-    <description>as shown by BH</description>
+    <name>Personal|Filmic RGB|Neutral 01</name>
+    <description>Neutral starting point</description>
   </info>
   <style>
     <plugin>
