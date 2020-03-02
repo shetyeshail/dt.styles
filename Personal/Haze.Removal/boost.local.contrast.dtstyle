@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Haze Removal|Local Cotrast</name>
+    <description>Boost Local Contrast</description>
+  </info>
+  <style>
+    <plugin>
+      <num>9</num>
+      <module>1</module>
+      <operation>hazeremoval</operation>
+      <op_params>cccccc3eae47613e</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjZGBgkGAAgVVODGiAEV0AJ2iwh+CRyscOAOEPGOc=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name/>
+      <iop_order>14.000000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>

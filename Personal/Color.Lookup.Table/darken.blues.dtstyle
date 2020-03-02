@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<darktable_style version="1.0">
+  <info>
+    <name>Personal|Color Lookup Table|Darken Blue's</name>
+    <description>Base for darkening blue's</description>
+  </info>
+  <style>
+    <plugin>
+      <num>11</num>
+      <module>2</module>
+      <operation>colorchecker</operation>
+      <op_params>gz03eJw7/FXcqTW72Sloh7tTTL+O05KCGCDudbq+uMqpWkTB6WGVD5D9yTGGf6KTx8N+p0LbZ462XLFOaWkaTodLFzv1H/J3+qbhA1R70Em+dZGTbVcrUI83UA+fk8i6xY4OlyyV8kIZGGL5DJsb6hkwQEFOaXpmXrF+SmJRdlF+fq5+cn5OflFyRmpydmqRflpiWX5RZkkqpj5kcPhrBNBNEx2/acw5MGtm4MElBbyOs2ayHlrnLgD0k5rj4a8OTlzXtzuKrNt70OPhLEePh0mOmjGSh+RbQ53WuTc6HP7q7mTL9fTgN407+7iuK+/3eGi1f9ZMyX22XNeB/MV78dtOHXD4a4Ljw6o+xyUF6w+uc1/vaGx8+uDZMz770tJSgG43P8TA0OQYtGPNQVuuVGBctTsZG3seOvz1l6N860PH64vnO+2Qyzy4Q+7pwTeBM+yrRdbtAxq5v9C2a9+Sgrn73wRW7KfYgWv5TN42hD0OmJDm8A8YjzD6PzNE+mCMW/NhaFoK2GFPk7QEsm/+NIi9pIAGEtTC0lIOF/uB2TRISyYE7FdA47PDGNDwZ9ghoAzKTwymPOB8xQHlw/KZB5CGpaULYddpkpZA+diy/koTOD9D7ZcsgvDR3b/g5VWwuMOBcAWwu2HikyDxCHM3ur8kgEwAdSJTaQ==</op_params>
+      <enabled>1</enabled>
+      <blendop_params>gz11eJxjYGBgkGAAgRNODGiAEV0AJ2iwh+CRyscOAAdeGQQ=</blendop_params>
+      <blendop_version>9</blendop_version>
+      <multi_priority>0</multi_priority>
+      <multi_name>1</multi_name>
+      <iop_order>30.500000</iop_order>
+    </plugin>
+  </style>
+</darktable_style>
